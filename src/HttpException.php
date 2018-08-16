@@ -1,6 +1,6 @@
 <?php
 
-namespace think\testing;
+namespace foxiswho\testing;
 
 use PHPUnit\Framework\ExpectationFailedException as PHPUnit_Framework_ExpectationFailedException;
 

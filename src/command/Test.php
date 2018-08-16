@@ -9,7 +9,7 @@
 // | Author: yunwuxin <448901948@qq.com>
 // +----------------------------------------------------------------------
 
-namespace think\testing\command;
+namespace foxiswho\testing\command;
 
 use PHPUnit\TextUI\Command as PHPUnit_TextUI_Command;
 use PHPUnit\Util\Blacklist as PHPUnit_Util_Blacklist;
