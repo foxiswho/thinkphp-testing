@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "think\\testing\\": "src"
+            "foxiswho\\testing\\": "src"
         },
         "files": [
             "src/config.php"
